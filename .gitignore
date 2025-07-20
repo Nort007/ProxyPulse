@@ -1,0 +1,7 @@
+.vscode/
+.python-version
+*.pyc
+.DS_Store
+Pipfile.lock
+Pipfile
+*.txt
