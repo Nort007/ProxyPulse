@@ -2,8 +2,7 @@
 
 Fast and reliable proxy connectivity testing tool that supports multiple proxy protocol types.
 
-
-![alt text](<Screenshot 2025-07-20 at 15.19.26.png>)
+<img width="998" height="192" alt="Screenshot 2025-07-20 at 15 19 26" src="https://github.com/user-attachments/assets/06a25392-dd64-4dde-8ecf-afe08b2c44be" />
 
 ## How to run
 
